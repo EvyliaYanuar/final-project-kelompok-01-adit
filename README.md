@@ -5,7 +5,7 @@ Anggota Kelompok:
 
 Nama Mentor: Aditya Bariq Ikhsan 
 
-Nama Dataset: 'Car Price Prediction'
+Nama Dataset: Car Price Prediction
 
 Link Dataset: https://www.kaggle.com/datasets/hellbuoy/car-price-prediction
 
